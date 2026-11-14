@@ -1,7 +1,10 @@
 # app-dev
 My first repository
+
 Harry Potter
+
 About
+
 Harry Potter is my favorite movie series because it tells the story of a young wizard and his adventures at Hogwarts School of Witchcraft and Wizardry. The series is full of magic, friendship, and exciting challenges.
 
 Main Characters
